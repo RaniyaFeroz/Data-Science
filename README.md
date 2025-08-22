@@ -1,8 +1,8 @@
 # Data Science & Machine Learning Projects
 
 Welcome to my Data Science repository! 🚀  
-This repo contains my projects in *Machine Learning, Statistics, Natural Language Processing (NLP), and Deep Learning (CNN, Transformers)*.  
-Each project is built using real-world datasets and demonstrates concepts from supervised learning, unsupervised learning, statistical analysis, and advanced AI models.
+This repo contains my projects in *Machine Learning, Statistics, Natural Language Processing (NLP), Deep Learning (CNN, Transformers), Business Intelligence (BI), and SQL*.  
+Each project is built using real-world datasets and demonstrates concepts from supervised learning, unsupervised learning, statistical analysis, data visualization, and advanced AI models.
 
 ---
 
@@ -60,11 +60,28 @@ Each project is built using real-world datasets and demonstrates concepts from s
 
 ---
 
+### 🔹 Business Intelligence & SQL
+11. *IBM HR Analytics Dashboard (Power BI)*  
+    - Created an *interactive dashboard* in Power BI.  
+    - Provides insights into employee attrition, job satisfaction, and performance trends.
+
+12. *Shopping Trends Dashboard (Tableau)*  
+    - Designed a *Tableau dashboard* to visualize shopping behaviors and sales trends.  
+    - Includes interactive filters for region, age group, and purchase categories.
+
+13. *SQL Analysis on South African Heart Disease Dataset*  
+    - Performed *SQL-based data analysis* on heart disease dataset.  
+    - Explored patient demographics, lifestyle factors, and risk trends for cardiovascular diseases.
+
+---
+
 ## 🛠 Tools & Technologies
 - *Programming Language:* Python  
 - *Libraries:* pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
 - *NLP:* NLTK, spaCy, scikit-learn, Transformers (HuggingFace)  
 - *Deep Learning:* TensorFlow / Keras, PyTorch  
+- *BI Tools:* Power BI, Tableau  
+- *Databases:* SQL (MySQL / PostgreSQL)  
 - *Other Tools:* Jupyter Notebook, GitHub  
 
 ---
